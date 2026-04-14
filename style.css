@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@400;800&display=swap');
 :root{--bg-page:#0E0E14;--bg-header:rgba(14,14,20,0.85);--border-color:#17171F;--text-main:#EDEDED;--text-sub:#868689;--active-main:#30C1FF;--border-width:2px;}
 body{background-color:var(--bg-page);background-image:radial-gradient(var(--border-color) 2px,transparent 2px);background-size:28px 28px;font-family:'Blinker',sans-serif;margin:0;display:flex;flex-direction:column;height:100vh;overflow:hidden;}
-.oculto{display:none!important;}
+.oculto{display:none!important;} a {text-decoration: none; color:var(--text-main);}
 
 .header-container{padding-top:40px;z-index:10;flex-shrink:0;}
 .header-nav{width:90%;max-width:1000px;margin:0 auto;display:flex;align-items:center;justify-content:space-evenly;padding:18px 0;background-color:var(--bg-header);border:var(--border-width) solid var(--border-color);border-radius:10px;backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);box-shadow:0 4px 20px rgba(0,0,0,0.8);}
