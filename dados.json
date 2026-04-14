@@ -1,0 +1,253 @@
+[
+  {
+    "id": "PC01",
+    "titulo": "Hit The Zombies",
+    "subtitulo": "Mobile Game",
+    "categoria": "pc_console",
+    "caminho_base": "projetos/pc_console/PC01/",
+    "capa": "thumb.png",
+    "galeria": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png",
+      "09.png"
+    ]
+  },
+  {
+    "id": "PC02",
+    "titulo": "Gravity Heroes",
+    "subtitulo": "PC/CONSOLE",
+    "categoria": "pc_console",
+    "caminho_base": "projetos/pc_console/PC02/",
+    "capa": "thumb.png",
+    "galeria": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png"
+    ]
+  },
+  {
+    "id": "PC03",
+    "titulo": "Electric Monkeys",
+    "subtitulo": "WEB SITE",
+    "categoria": "pc_console",
+    "caminho_base": "projetos/pc_console/PC03/",
+    "capa": "thumb.png",
+    "galeria": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ]
+  },
+  {
+    "id": "PC02",
+    "titulo": "Gravity Heroes",
+    "subtitulo": "PC/CONSOLE",
+    "categoria": "mobile",
+    "caminho_base": "projetos/mobile/PC02/",
+    "capa": "thumb.png",
+    "galeria": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png",
+      "08.png"
+    ]
+  },
+  {
+    "id": "PC03",
+    "titulo": "Electric Monkeys",
+    "subtitulo": "WEB SITE",
+    "categoria": "mobile",
+    "caminho_base": "projetos/mobile/PC03/",
+    "capa": "thumb.png",
+    "galeria": [
+      "01.png",
+      "02.png",
+      "03.png",
+      "04.png",
+      "05.png",
+      "06.png",
+      "07.png"
+    ]
+  },
+  {
+    "id": "abel",
+    "titulo": "abel",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "abel.png",
+    "galeria": []
+  },
+  {
+    "id": "axe",
+    "titulo": "axe",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "axe.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-03-14 143427",
+    "titulo": "Captura de tela 2025-03-14 143427",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-03-14 143427.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-03-21 100618",
+    "titulo": "Captura de tela 2025-03-21 100618",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-03-21 100618.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-04-10 144242",
+    "titulo": "Captura de tela 2025-04-10 144242",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-04-10 144242.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-09-24 180404",
+    "titulo": "Captura de tela 2025-09-24 180404",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-09-24 180404.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-10-17 115548",
+    "titulo": "Captura de tela 2025-10-17 115548",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-10-17 115548.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2025-10-17 115851",
+    "titulo": "Captura de tela 2025-10-17 115851",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2025-10-17 115851.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2026-01-17 000314",
+    "titulo": "Captura de tela 2026-01-17 000314",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2026-01-17 000314.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2026-02-21 074516",
+    "titulo": "Captura de tela 2026-02-21 074516",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2026-02-21 074516.png",
+    "galeria": []
+  },
+  {
+    "id": "Captura de tela 2026-03-03 204602",
+    "titulo": "Captura de tela 2026-03-03 204602",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "Captura de tela 2026-03-03 204602.png",
+    "galeria": []
+  },
+  {
+    "id": "chest",
+    "titulo": "chest",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "chest.png",
+    "galeria": []
+  },
+  {
+    "id": "el tostador",
+    "titulo": "el tostador",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "el_tostador.png",
+    "galeria": []
+  },
+  {
+    "id": "goblin",
+    "titulo": "goblin",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "goblin.png",
+    "galeria": []
+  },
+  {
+    "id": "madbee",
+    "titulo": "madbee",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "madbee.jpg",
+    "galeria": []
+  },
+  {
+    "id": "menino",
+    "titulo": "menino",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "menino.png",
+    "galeria": []
+  },
+  {
+    "id": "pixel abel",
+    "titulo": "pixel abel",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "pixel_abel.png",
+    "galeria": []
+  },
+  {
+    "id": "zavore",
+    "titulo": "zavore",
+    "subtitulo": "Illustration",
+    "categoria": "illustration",
+    "caminho_base": "projetos/illustration/",
+    "capa": "zavore.png",
+    "galeria": []
+  }
+]

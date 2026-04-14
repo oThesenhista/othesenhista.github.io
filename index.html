@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Jonatan Candeias Rolandi - Portfólio</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Blinker:wght@400;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css"></head>
+<body>
+    <header class="header-container">
+        <nav class="header-nav">
+            <a href="#" class="nav-item active" data-cat="pc_console"><span class="nav-label">GAME ART</span><span class="nav-title">PC/CONSOLE</span></a>
+            <a href="#" class="nav-item" data-cat="mobile"><span class="nav-label">GAME ART</span><span class="nav-title">MOBILE</span></a>
+            <a href="#" class="nav-item" data-cat="illustration"><span class="nav-label">PERSONAL</span><span class="nav-title">ILLUSTRATION</span></a>
+        </nav>
+    </header>
+    <main class="main-container">
+        <div class="carrossel-container oculto" id="layout-carrossel">
+            <button class="nav-seta seta-esquerda" id="btn-prev">❮</button>
+            <div class="carrossel-track" id="carrossel-track"></div>
+            <button class="nav-seta seta-direita" id="btn-next">❯</button>
+        </div>
+        <div class="grid-instagram-container oculto" id="layout-grid">
+            <div class="grid-insta-wrapper" id="insta-grid"></div>
+        </div>
+    </main>
+    <div class="modal-overlay oculto" id="modal-projeto">
+        <div class="modal-popup">
+            <button class="btn-fechar-modal" id="btn-fechar">X</button>
+            <div class="modal-scroll-area" id="modal-scroll">
+                <div class="modal-content-wrapper" id="modal-content-wrapper"><div class="modal-imagens-container" id="conteudo-projeto"></div></div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer-container">
+        <div class="footer-content">
+            <div class="footer-esq"><h2 class="footer-nome">Jonatan Candeias Rolandi</h2><p class="footer-sub">Portfólio</p></div>
+            <div class="footer-dir"><h2 class="footer-email">othesenhista@gmail.com</h2><p class="footer-contato">@othesenhista / (11) 9 4588-4111</p></div>
+        </div>
+    </footer>
+    <script src="script.js" defer></script>
+</body></html>
